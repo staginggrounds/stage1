@@ -1,0 +1,11 @@
+[user]
+	email = public@rccloud.me
+	name = rayantony
+
+[user]
+        email = staginggrounds@rccloud.me
+	name = staginggrounds
+
+[org]
+       email = staginggrounds@rccloud.me
+       name = staginggrounds
